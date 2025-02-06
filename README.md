@@ -1,7 +1,7 @@
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 # Data product image
-The repository of the data product image used in Wikipedia's definition. 
+This repository contains the image used in [Wikipedia's data product definition](https://en.wikipedia.org/wiki/Data_product#See_also).
 
 ![Data Product](data-product.png "Data Product")
 
